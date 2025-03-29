@@ -1,0 +1,18 @@
+[
+  {
+  "userId": 1,
+  "id": 1,
+  "title": "Assistir filme no cinema",
+  "status": "pendente",
+  "prazo": "2025-03-27",
+  "completed": false
+  },
+  {
+  "userId": 1,
+  "id": 2,
+  "title": "Ir ao Shopping",
+  "status": "pendente",
+  "prazo": "2025-03-30",
+  "completed": false
+  }
+]
